@@ -329,3 +329,9 @@ button:disabled {
   background: #ffeeee;
   color: #d66a6a;
 }
+
+/* @media screen and (max-width: 600px) {
+  .logo {
+    width: 5rem;
+  }
+} */

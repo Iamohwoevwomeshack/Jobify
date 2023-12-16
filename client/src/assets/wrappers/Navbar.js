@@ -16,11 +16,12 @@ const Wrapper = styled.nav`
   .toggle-btn {
     background: transparent;
     border-color: transparent;
-    font-size: 1.75rem;
+    font-size: 1.5rem;
     color: var(--primary-500);
     cursor: pointer;
     display: flex;
     align-items: center;
+    margin-right: 0.2rem;
   }
   .logo-text {
     display: none;
@@ -28,8 +29,8 @@ const Wrapper = styled.nav`
   .logo {
     display: flex;
     align-items: center;
-    width: 9rem;
-    margin-top: 5px;
+    width: 8rem;
+    margin-top: 3px;
   }
   .btn-container {
     display: flex;
