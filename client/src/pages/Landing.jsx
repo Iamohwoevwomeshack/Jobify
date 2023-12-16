@@ -16,9 +16,10 @@ const Landing = () => {
             Job <span>Tracking</span> app
           </h1>
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo quos
-            voluptas modi repellendus hic laborum ipsam asperiores minus iste a
-            eaque minima perferendis, animi veniam nemo vero quidem dolore in.
+            This is a Job App built from scratch by me 'Ohwoevw Meshack' this
+            app is a MernStack Project that show my proficiency. While I look
+            forward to developing myself more, I hope this project will tell
+            well of my consistency. Thank you!
           </p>
           <Link to='/register' className='btn register-link'>
             Register
